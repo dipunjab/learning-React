@@ -1,6 +1,11 @@
+import  Chai from "./chai.jsx"
+
 function App() {
   return (
-    <h1>ViteReact | Usman Ghani</h1>
+    <>
+      <Chai/>
+      <h1>Vite React</h1>
+    </>
   )
 }
 
