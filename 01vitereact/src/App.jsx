@@ -1,10 +1,13 @@
 import  Chai from "./chai.jsx"
 
 function App() {
+  const username = "UsmanGhani"
+
+
   return (
     <>
       <Chai/>
-      <h1>Vite React</h1>
+      <h1>Vite React | {username}</h1>
     </>
   )
 }
